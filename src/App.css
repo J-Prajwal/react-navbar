@@ -8,3 +8,12 @@
   gap: 20%;
   color: white;
 }
+
+.x {
+  display: flex;
+  gap: 30px;
+  cursor: pointer;
+  color: white;
+  list-style: none;
+  padding: 0;
+}
